@@ -11,3 +11,6 @@ Open terminal and paste this "pip install opencv-python pygame numpy" and wait u
 next, tpye "cd downloads" and it should say "C:\Users\(YOUR USER)\Downloads>" and from there input "python bad_apple.py"
 
 Done
+
+DISCLAIMER:
+If put on youtube, tiktok, or any other platform. Please give credit to me in a way.
